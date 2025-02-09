@@ -5,8 +5,6 @@
     <li> Anirudh Nittur Venkatesh 862465839 nitt003 </li>
     <li> Lakhan Kumar Sunilkumar 862481700 lsuni001 </li>
     <li> Khayati Shah 862481455 kshah110 </li>
-    <li> Hrishitha Pulipaka 862548174 phris002 </li>
-    <li> Rohan Tikotekar 862548066 rtiko001 </li>
 
 </ul>
 

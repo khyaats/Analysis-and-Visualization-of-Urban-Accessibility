@@ -1,12 +1,4 @@
 <h1> Analysis and Visualization of Urban Accessibility and Economic Landscapes  </h1>
-<b>Team Name:</b> Big Data Explorers <br>
-<b>Team Members:</b> <br>
-<ul>
-    <li> Anirudh Nittur Venkatesh 862465839 nitt003 </li>
-    <li> Lakhan Kumar Sunilkumar 862481700 lsuni001 </li>
-    <li> Khayati Shah 862481455 kshah110 </li>
-
-</ul>
 
 ## Overview
 This project focuses on visualizing urban accessibility and socioeconomic patterns using big data techniques and geospatial visualization tools. It leverages PySpark for data processing and integrates D3.js & Leaflet.js for creating interactive maps.

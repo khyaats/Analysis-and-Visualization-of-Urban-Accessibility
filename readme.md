@@ -112,5 +112,3 @@ If you encounter any issues:
 - [Apache Spark](https://spark.apache.org/)
 - [PySpark](https://spark.apache.org/docs/latest/api/python/index.html)
 - [Python](https://www.python.org/doc/)
-
-<strong> README Written by Lakhan & Anirudh </strong>
